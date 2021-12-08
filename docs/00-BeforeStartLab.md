@@ -8,8 +8,8 @@ You should follow all of the steps provided in this section *before* taking part
 
 1. Open a browser, navigate to the link https://portal.azure.com/, and then sign In with your Azure credentials.
 
-   - Azure Usename/Email:
-   - Azure Password:
+   - Azure Usename/Email: <inject key="AzureAdUserEmail"></inject>
+   - Azure Password: <inject key="AzureAdUserPassword"></inject>
 
 2. If you see the pop-up **Stay Signed in?**, click Yes.
 
