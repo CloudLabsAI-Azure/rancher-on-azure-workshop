@@ -28,7 +28,7 @@
         "Order": 6
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/CloudLabsAI-Azure/rancher-on-azure-workshop/main/docs/05-CleanUpLab.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/05-CleanUpLab.md",
         "Order": 7
       }
     ]
