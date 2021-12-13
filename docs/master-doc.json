@@ -28,8 +28,12 @@
         "Order": 6
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/06-CleanUpLab.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/05.%20Continious%20Deployment%20(Fleet).md",
         "Order": 7
+      },
+      {
+        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/06-CleanUpLab.md",
+        "Order": 8
       }
     ]
   }
