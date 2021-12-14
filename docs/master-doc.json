@@ -8,32 +8,28 @@
         "Order": 1
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/00-BeforeStartLab.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/01-Install-Rancher.md",
         "Order": 2
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/01-Install-Rancher.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/02-Provision-Kubernetes.md",
         "Order": 3
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/02-Provision-Kubernetes.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/03-DeployApps-on-RKE.md",
         "Order": 4
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/03-DeployApps-on-RKE.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/04-SecureAndManage-RKE.md",
         "Order": 5
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/04-SecureAndManage-RKE.md",
+        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/05-Continious-deployment-fleet.md",
         "Order": 6
       },
       {
-        "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/05-Continious-deployment-fleet.md",
-        "Order": 7
-      },
-      {
         "RawFilePath": "https://raw.githubusercontent.com/dsohk/rancher-on-azure-workshop/main/docs/06-CleanUpLab.md",
-        "Order": 8
+        "Order": 7
       }
     ]
   }
